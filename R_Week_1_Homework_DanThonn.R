@@ -26,3 +26,7 @@ x=1
 y=a*x^2 +b*x + c
 y
 #[1] 6
+#3 - As Function with user inputs
+> fy=function(a,b,c,x)a*x^2 +b*x + c
+> fy(3,2,1,5)
+#[1] 86
